@@ -1,0 +1,18 @@
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\Sistema de Vendas de Carro.dll.config
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\Sistema de Vendas de Carro.dll
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\Sistema de Vendas de Carro.pdb
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Helpers.dll
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Mvc.dll
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Razor.dll
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Webpages.dll
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Webpages.Razor.dll
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Razor.xml
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Webpages.xml
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Webpages.Razor.xml
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Helpers.xml
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\bin\System.Web.Mvc.xml
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\obj\Debug\Sistema de Vendas de Carro.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\obj\Debug\Sistema de Vendas de Carro.dll
+C:\Users\Marcos\Documents\Visual Studio 2013\Projects\Sistema de Vendas de Carro\Sistema de Vendas de Carro\obj\Debug\Sistema de Vendas de Carro.pdb

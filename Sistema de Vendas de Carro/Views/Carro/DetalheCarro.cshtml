@@ -1,0 +1,12 @@
+﻿@model Sistema_de_Vendas_de_Carro.Models.Carro
+
+<h2>Detalhes do Carro</h2>
+
+<div class="jumbotron">
+    <h1>@Model.Modelo</h1>
+    <p>Ano - @Model.Ano</p>
+    <p>Cor - @Model.Cor</p>
+    <p>Chassi - @Model.Chassi</p>
+    
+    <p><a class="btn btn-primary btn-lg" href="@Url.Action("Index","Carro")" role="button">Voltar a Lista</a></p>
+</div>

@@ -1,0 +1,29 @@
+﻿@model List<Sistema_de_Vendas_de_Carro.Models.Carro>
+
+
+<ul class="nav nav-tabs">
+    <li role="presentation"><a href="@Url.Action("CadastrarCarro","Carro")">Cadastrar Carro</a></li>
+    <li role="presentation"><a href="#">Profile</a></li>
+    <li role="presentation"><a href="#">Messages</a></li>
+</ul>
+<h2>Carros Cadastrados</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <td>Modelo</td>
+            <td>Cor</td>
+            <td>Ações</td>
+        </tr>
+    </thead>
+    @foreach (var carro in Model)
+    {
+        <tr>
+            <td>@carro.Modelo</td>
+            <td>@carro.Cor</td>
+            <td><a href="@Url.Action("DetalheCarro","Carro",new{id=carro.Chassi})">Detalhe</a></td>
+        </tr>
+    }
+
+
+</table>
+
